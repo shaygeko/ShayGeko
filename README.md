@@ -1,8 +1,6 @@
 # 👋 Hi there! I'm George
-![cozy banner](https://github.com/ShayGeko/ShayGeko/blob/main/banner.png?raw=true)
-Image generated with Bing AI and runwayml
 
-I'm a 4th year CS student at Simon Fraser University. I am also the President of SFU Competitive Programming Club, currently working towards getting to North-American Championship and (hopefully) the World Finals in ICPC. I am passionate about innovation, algorithms development, AI and supporting communities through technology.
+I'm a 4th year CS student at Simon Fraser University with 1.5 years of experience in the industry as a backend developer. I am also the President of SFU Competitive Programming Club, currently working towards getting to North-American Championship and (hopefully) the World Finals in ICPC. I am passionate about innovation, cloud computing, algorithms development, AI and supporting communities through technology.
 
 
 ## 🏗️ Current project
